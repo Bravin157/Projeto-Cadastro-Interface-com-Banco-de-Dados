@@ -1,0 +1,21 @@
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\bin\Debug\Projeto Cadastro Interface.exe.config
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\bin\Debug\Projeto Cadastro Interface.exe
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\bin\Debug\Projeto Cadastro Interface.pdb
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\obj\Debug\Projeto Cadastro Interface.csproj.AssemblyReference.cache
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\obj\Debug\Projeto_Cadastro_Interface.Properties.Resources.resources
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\obj\Debug\Projeto Cadastro Interface.csproj.GenerateResource.cache
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\obj\Debug\Projeto Cadastro Interface.csproj.CoreCompileInputs.cache
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\obj\Debug\Projeto Cadastro Interface.exe
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\obj\Debug\Projeto Cadastro Interface.pdb
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\obj\Debug\Projeto_Cadastro_Interface.Cadastrar.resources
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\obj\Debug\Projeto_Cadastro_Interface.frmPrincipal.resources
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\bin\Debug\EntityFramework.dll
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\bin\Debug\System.Data.SQLite.dll
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\bin\Debug\EntityFramework.xml
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\bin\Debug\System.Data.SQLite.xml
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\obj\Debug\Projeto .B01371B4.Up2Date
+C:\Users\gb020\source\repos\Projeto Cadastro Interface\Projeto Cadastro Interface\obj\Debug\Projeto_Cadastro_Interface.frmEditar.resources
